@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Learning Out Loud</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Learning Out Loud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Mar 2021 17:53:46 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving by Feeling2</title>
+      <link>http://example.org/posts/first/</link>
+      <pubDate>Sun, 07 Mar 2021 17:53:46 -0500</pubDate>
+      
+      <guid>http://example.org/posts/first/</guid>
+      <description>2t know. To not know how to move forward. To make progress. To make things better. To “fix”…
+Amidst much reflection and working on an appreciative inquiry kind of approach (look to what worked previously to find the way forward), I’m realizing something: whenever I’ve faced really tough situations or crises, I’ve felt my way out. I moved by instinct, not really knowing what to do, but simply doing the next thing that FELT right.</description>
+    </item>
+    
+  </channel>
+</rss>
